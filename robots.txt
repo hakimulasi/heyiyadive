@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://heyiyadive.netlify.app/sitemap.xml
